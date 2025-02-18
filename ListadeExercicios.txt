@@ -1,0 +1,53 @@
+Atividade 1 
+let nome = "Isabele"; 
+let idade = "16"; 
+let cidade = "Sorocaba"; 
+
+console.log("Nome: ", nome, "Idade: ", idade, "Cidade: ", cidade);
+
+Atividade 2 
+var 2nome;
+var _idade;
+var cidade-natal;
+var $preco;
+var let; 
+
+Atividade 3 
+let Altura; 
+console.log(Altura);
+R: Quando exibimos o valor aparece "undefined" no console 
+
+Atividade 4 
+let Altura = 150; 
+console.log("Altura:", Altura);
+R: Altura: 150 
+
+Atividade 5 
+"use strict";
+// Tente fazer isso
+minhaVariavel = 10;
+console.log(minhaVariavel);
+R: Uncaught ReferenceError: minhaVariavel is not defined
+
+Atividade 6 
+Contador = 0;
+console.log(Contador, Contador, Contador); 
+
+Atividade 7 
+let PI = 3.14;
+console.log(steps); 
+steps = 3; 
+console.log(steps);
+R: Uncaught ReferenceError: steps is not defined
+
+Atividade 8
+Var: O var pode atuar em todo o código sem problemas 
+Lef: O lef pode atuar apenas em parte do código(onde ele estiver inserido)
+const: O const como o próprio nome diz, e constante, sendo assim não iria mudar 
+
+exemplo: 
+
+Atividade 9 
+O console exibe: 10,20, 10 e Uncaught ReferenceError: b is not defined
+
+Atividade 10 
